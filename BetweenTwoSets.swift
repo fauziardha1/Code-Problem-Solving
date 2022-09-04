@@ -1,4 +1,4 @@
-// problem : https://www.hackerrank.com/challenges/breaking-best-and-worst-records/problem?isFullScreen=true
+// problem :https://www.hackerrank.com/challenges/between-two-sets/problem?isFullScreen=true
 // input [2,6], [24,36]
 // output 1 or 2 etc
 
