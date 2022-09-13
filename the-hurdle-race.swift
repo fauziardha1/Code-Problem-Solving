@@ -4,10 +4,7 @@
 
 func hurdleRace(k: Int, height: [Int]) -> Int {
     // Write your code here
-    var result = 0
-    for h in height {
-        result += h > k ? 1 : 0
-    }
-    
-    return result
+    var heights = height
+    heights.sort()
+    return heights.last! > k ? heights.last! - k : 0
 }
