@@ -1,6 +1,3 @@
-// add two number ?
-if let totalHours = totalHoursInt, let typeHours = typeHoursInt {
-    print(totalHours + typeHours)
-}
+print("this is just testing")
 
 print("Hello world")
